@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-es-eu" viewBox="0 0 512 512">
+  <path d="M0,0 v512 h512 v-512 z" fill="#D52B1E"/>
+  <path d="M0,0 L512,512 M512,0 L0,512" stroke="#009B48" stroke-width="56.451282053"/>
+  <path d="M256,0 v512 M0,256 h512" stroke="#fff" stroke-width="56.451282053"/>
+</svg>
